@@ -1,5 +1,5 @@
 import Tabs from "./tabs";
-
+import "./index.css";
 function RandomComponent() {
   return <h1>Some Randon Content</h1>;
 }
